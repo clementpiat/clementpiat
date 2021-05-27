@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 
-## Hey 👋
+## 👋
 [![Gmail Badge](https://img.shields.io/badge/-clement.piat2@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:clement.piat2@gmail.com)](mailto:clement.piat2@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-clementpiat9-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clementpiat9/)](https://www.linkedin.com/in/clementpiat9/) [![Github Badge](https://img.shields.io/badge/-clementpiat-grey?style=flat&logo=github&logoColor=white&link=https://github.com/clementpiat/)](https://www.github.com/clementpiat/) 
-## Some of my Github Stats
+## Github Stats 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=clementpiat alt=clementpiat /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=clementpiat&show_icons=true&include_all_commits=true)](https://github.com/clementpiat/github-readme-stats)
