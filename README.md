@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-clementpiat9-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clementpiat9/)](https://www.linkedin.com/in/clementpiat9/) [![Github Badge](https://img.shields.io/badge/-clementpiat-grey?style=flat&logo=github&logoColor=white&link=https://github.com/clementpiat/)](https://www.github.com/clementpiat/) 
+[![Linkedin Badge](https://img.shields.io/badge/-clementpiat9-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clementpiat9/)](https://www.linkedin.com/in/clementpiat9/)
 ## Github Stats 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=clementpiat alt=clementpiat /> </p>
 
