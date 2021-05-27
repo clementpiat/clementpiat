@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <p align=left> <img src=https://komarev.com/ghpvc/?username=clementpiat alt=clementpiat /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=clementpiat&show_icons=true&include_all_commits=true)](https://github.com/clementpiat/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clementpiat&layout=compact)](https://github.com/clementpiat/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clementpiat&layout=compact&hide=jupyter%20notebook)](https://github.com/clementpiat/github-readme-stats)
