@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 </a>
 
 ## Others
-Boutique e-commerce : https://www.art-teasane.fr/
+E-commerce website : https://www.art-teasane.fr/
