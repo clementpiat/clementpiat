@@ -26,6 +26,5 @@ Here are some ideas to get you started:
 -->
 
 ## Others
-E-commerce website : https://www.art-teasane.fr/
 
 3D catalog : https://medimod3d.vercel.app/
