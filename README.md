@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 ## Others
 
-3D catalog : https://medimod3d.vercel.app/
-Apprentissage de vocabulaire français : https://mansuetude.vercel.app/
+* 3D catalog : https://medimod3d.vercel.app/
+* Apprentissage de vocabulaire français : https://mansuetude.vercel.app/
