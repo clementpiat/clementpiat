@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 ## Others
 
-* Apprentissage de vocabulaire français : https://mansuetude-v2.vercel.app/
 * Modélisations 3D d'interventions médicales : https://medimod3d.vercel.app/
+* Apprentissage de vocabulaire français : https://mansuetude-v2.vercel.app/
