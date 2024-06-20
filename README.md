@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 ## Others
 
-* Modélisations 3D d'interventions médicales : https://medimod3d.vercel.app/
+* Modélisations 3D d'interventions médicales : https://medimod3d.com/
